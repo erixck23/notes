@@ -1,1 +1,1 @@
-sdas
+print ('hello world')
